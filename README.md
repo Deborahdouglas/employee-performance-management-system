@@ -33,6 +33,22 @@ The solution includes:
 
 Employee compliments, concerns, and rota adjustments are collected using Google Forms, while Power Query automatically prepares and combines the data for reporting. VBA is used to display employee photos dynamically on the dashboard.
 
+## Screenshots
+### Main Dashboard
+![Main Dashboard](Screenshots/Dashboard.png)
+
+### Employee Profile
+![Employee Profile](Screenshots/Employee_Profile.png)
+
+### Compliments, Concerns, and Rota Adjustment (CCR) Summary 
+![CCR Summary](Screenshots/CCR_summary.png)
+
+### Training Module - Page 1
+![Training Module - Page 1](Screenshots/Training_1.png)
+
+### Training Module - Page 2
+![Training Module - Page 2](Screenshots/Training_2.png)
+
 ## Key Features
 - Employee Performance Dashboard – View the overall performance of employees through interactive dashboards.
 - Compliance Monitoring – Track employee compliance across different performance segments and calculate compliance scores automatically.
