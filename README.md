@@ -30,4 +30,18 @@ The solution includes:
 - Employee profile with dynamic photo display
 - Interactive performance dashboards
 - Automated monthly reports
+
 Employee compliments, concerns, and rota adjustments are collected using Google Forms, while Power Query automatically prepares and combines the data for reporting. VBA is used to display employee photos dynamically on the dashboard.
+
+## Key Features
+- Employee Performance Dashboard – View the overall performance of employees through interactive dashboards.
+- Compliance Monitoring – Track employee compliance across different performance segments and calculate compliance scores automatically.
+- Compliments Tracking – Record and monitor employee compliments submitted through Google Forms.
+- Concerns Tracking – Record and monitor employee concerns submitted through Google Forms.
+- Rota Adjustment Tracking – Track rota adjustments and include them in employee performance evaluation.
+- Training Records – Monitor employee training completion and progress.
+- Dynamic Employee Profile – Display employee details and photos automatically when an employee is selected.
+- Automated Performance Scoring – Calculate employee performance scores automatically based on predefined rules.
+- Interactive Filters – View employee performance by month, year, or individual employee.
+- Automated Data Processing – Power Query automatically prepares and combines data from different sources for reporting.
+- Real-time Reporting – Generate up-to-date performance reports without manual calculations.
