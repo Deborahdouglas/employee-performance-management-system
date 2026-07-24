@@ -1,4 +1,4 @@
-# employee-performance-management-system
+# EMPLOYEE-PERFORMANCE-MANAGEMENT-SYSTEM
 An automated Employee Performance Management System built in Microsoft Excel using Power Query and VBA. The system tracks employee compliance, concerns, rota adjustments, KPIs, training records, and generates interactive dashboards with dynamic employee profiles and analytics
 
 ## Project Overview
