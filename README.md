@@ -53,6 +53,12 @@ Employee compliments, concerns, and rota adjustments are collected using Google 
 ### Training Module - Page 2
 ![Training Module - Page 2](Screenshots/Training_2.png)
 
+### Employee Performance Monitoring - Page 1
+![Employee Performance](Screenshots/Employee_Performance_1.png)
+
+### Employee Performance Monitoring - Page 2
+![Employee Performance](Screenshots/Employee_Performance_2.png)
+
 ## Key Features
 - Employee Performance Dashboard – View the overall performance of employees through interactive dashboards.
 - Compliance Monitoring – Track employee compliance across different performance segments and calculate compliance scores automatically.
