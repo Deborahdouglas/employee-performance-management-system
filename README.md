@@ -40,6 +40,9 @@ Employee compliments, concerns, and rota adjustments are collected using Google 
 ### Employee Profile
 ![Employee Profile](Screenshots/Employee_Profile.png)
 
+### Compliance Entry
+![Compliance Entry](Screenshots/Compliance_Entry.png)
+
 ### Compliments, Concerns, and Rota Adjustment (CCR) Summary 
 ![CCR Summary](Screenshots/CCR_summary.png)
 
