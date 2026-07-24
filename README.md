@@ -15,6 +15,7 @@ The company also needed a better way to:
 - View employee performance in one place.
 - Generate monthly performance reports quickly.
 - Reduce the time spent on manual reporting and calculations.
+
 As the number of employees and records increased, the existing process became more time-consuming and harder to manage. There was a need for a centralized system that could automate these processes and provide management with clear and accurate performance information.
 
 ## Solution Developed
