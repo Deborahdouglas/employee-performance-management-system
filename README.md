@@ -22,6 +22,7 @@ As the number of employees and records increased, the existing process became mo
 To solve these challenges, I developed an Employee Performance Management System in Microsoft Excel.
 The system brings together employee performance information from different sources into one dashboard. It automates data collection, performance calculations, and reporting, making it easier for the HR team to monitor employee performance and make informed decisions.
 The solution includes:
+- Compliance Entry
 - Compliance monitoring and scoring
 - Employee compliments tracking
 - Employee concerns tracking
@@ -64,3 +65,14 @@ Employee compliments, concerns, and rota adjustments are collected using Google 
 - Interactive Filters – View employee performance by month, year, or individual employee.
 - Automated Data Processing – Power Query automatically prepares and combines data from different sources for reporting.
 - Real-time Reporting – Generate up-to-date performance reports without manual calculations.
+
+## Workflow
+The Employee Performance Management System follows an automated workflow that minimizes manual data processing and ensures that performance reports remain up to date.
+1. Managers and staff submit Compliments, Concerns, and Rota (CCR) records through Google Forms.
+2. Responses are automatically stored in Google Sheets.
+3. Microsoft Excel connects to the Google Sheets data using Power Query.
+4. Power Query cleans and transforms the imported data.
+5. Compliance Entry records and CCR data are combined into a single **Employee Performance** dataset.
+6. The Employee Performance dataset serves as the central source for all performance calculations, KPIs, and dashboard visualizations.
+7. Excel formulas and VBA automate employee profile updates, performance scoring, and dashboard refreshes.
+8. Interactive dashboards and reports provide management with up-to-date insights into employee performance, compliance, and training.
