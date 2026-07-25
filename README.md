@@ -78,7 +78,7 @@ The Employee Performance Management System follows an automated workflow that mi
 2. Responses are automatically stored in Google Sheets.
 3. Microsoft Excel connects to the Google Sheets data using Power Query.
 4. Power Query cleans and transforms the imported data.
-5. Compliance Entry records and CCR data are combined into a single **Employee Performance** dataset.
+5. Compliance Entry records and CCR data are combined into a single **Employee Performance Monitoring** dataset.
 6. The Employee Performance dataset serves as the central source for all performance calculations, KPIs, and dashboard visualizations.
 7. Excel formulas and VBA automate employee profile updates, performance scoring, and dashboard refreshes.
 8. Interactive dashboards and reports provide management with up-to-date insights into employee performance, compliance, and training.
