@@ -82,3 +82,14 @@ The Employee Performance Management System follows an automated workflow that mi
 6. The Employee Performance dataset serves as the central source for all performance calculations, KPIs, and dashboard visualizations.
 7. Excel formulas and VBA automate employee profile updates, performance scoring, and dashboard refreshes.
 8. Interactive dashboards and reports provide management with up-to-date insights into employee performance, compliance, and training.
+
+## Project Impact
+
+This system helps the organization manage employee performance more efficiently.
+It provides the following benefits:
+- Reduces the time spent on manual reporting.
+- Brings data from different sources into one system.
+- Automatically calculates employee performance scores.
+- Makes it easier to track compliance, training, and CCR records.
+- Gives managers quick access to employee performance through interactive dashboards.
+- Supports faster and better decision-making.
